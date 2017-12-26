@@ -1,0 +1,32 @@
+{
+  "name": "gulp-cli-yj",
+  "version": "1.0.1",
+  "description": "* description",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^7.2.3",
+    "browser-sync": "^2.21.0",
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-less": "^3.3.2",
+    "gulp-postcss": "^7.0.0",
+    "gulp-px-to-rem": "^1.0.4",
+    "gulp-sourcemaps": "^2.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webharry/gulp-cli-yj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webharry/gulp-cli-yj/issues"
+  },
+  "homepage": "https://github.com/webharry/gulp-cli-yj#readme"
+}
